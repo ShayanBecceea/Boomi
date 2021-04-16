@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns1:PackagedComponent xmlns:ns1="http://api.platform.boomi.com/">
+  <ns1:packageId>325600b8-be88-4bd0-8ccd-7fdf6cd9ee3a</ns1:packageId>
+  <ns1:packageVersion>1.0</ns1:packageVersion>
+  <ns1:componentId>fef71e5e-02c1-483b-a53e-082ad7c2e7ef</ns1:componentId>
+  <ns1:componentVersion>1</ns1:componentVersion>
+  <ns1:componentType>flowservice</ns1:componentType>
+  <ns1:createdDate>2021-04-14T11:44:16Z</ns1:createdDate>
+  <ns1:createdBy>munish.bhugowandeen@accenture.com</ns1:createdBy>
+  <ns1:deleted>false</ns1:deleted>
+  <ns1:shareable>false</ns1:shareable>
+</ns1:PackagedComponent>
