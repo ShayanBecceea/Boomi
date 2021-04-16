@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns1:PackagedComponent xmlns:ns1="http://api.platform.boomi.com/">
+  <ns1:packageId>ce7ab756-f315-48a5-84f5-6f2dc35b907a</ns1:packageId>
+  <ns1:packageVersion>1.0</ns1:packageVersion>
+  <ns1:componentId>a73cd6be-9a59-4c3b-83a4-4724b4f09882</ns1:componentId>
+  <ns1:componentVersion>1</ns1:componentVersion>
+  <ns1:componentType>process</ns1:componentType>
+  <ns1:createdDate>2021-04-14T11:44:16Z</ns1:createdDate>
+  <ns1:createdBy>munish.bhugowandeen@accenture.com</ns1:createdBy>
+  <ns1:deleted>false</ns1:deleted>
+  <ns1:shareable>false</ns1:shareable>
+</ns1:PackagedComponent>
