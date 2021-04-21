@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns1:PackagedComponent xmlns:ns1="http://api.platform.boomi.com/">
+  <packageVersion>6</packageVersion>
+  <componentId>740342b2-931b-44bc-9dbf-0901294658b7</componentId>
+  <componentType>process</componentType>
+  <createdDate>20210421 072056.000</createdDate>
+</ns1:PackagedComponent>
